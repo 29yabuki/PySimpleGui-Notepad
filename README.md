@@ -3,7 +3,7 @@
 
 Here's a preview image of the program:
 
-![preview]
+![preview](https://github.com/29yabuki/PySimpleGui-Notepad/blob/main/images/sample_image.png)
 
 ## Features
 1. Fully-functioning text workspace
