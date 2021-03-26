@@ -70,7 +70,12 @@ class Notepad():
         sg.popup('Word Count: {:,d}'.format(word_count))
 
     def about(self):
-        sg.popup('description')
+        sg.popup('''
+        Zenote is a basic note-taking made on Python 3 with 
+        PySimpleGUI
+
+        Follow the creator at https://github.com/29yabuki
+                 ''')
         
 # Main event loop
 notepad = Notepad()
@@ -91,5 +96,7 @@ while True:
         window['_body_'].expand(expand_x=True, expand_y=True)
     if event in ('Reset Size',):
         window.normal()
+    if event in ('About',):
+        notepad.about()
     if event in ('Exit',):
         break
