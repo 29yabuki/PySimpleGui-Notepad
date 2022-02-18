@@ -15,4 +15,4 @@
 ![preview](https://github.com/29yabuki/PySimpleGui-Notepad/blob/main/images/sample_image.png)
 
 ## Contributions
-If there are any comment or recommendations, always feel free to implement anything, submit pull requests, create issues, and discuss ideas with me.
+If there are any comments, improvments, and recommendations, always feel free to implement anything, submit pull requests, create issues, and discuss ideas with me.
