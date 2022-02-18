@@ -77,7 +77,7 @@ class Notepad():
         Follow the creator at https://github.com/29yabuki
                  ''')
         
-# Main event loop
+# Main Event Loop
 notepad = Notepad()
 while True:
     event, values = window.read()
