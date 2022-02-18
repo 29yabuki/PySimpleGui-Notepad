@@ -65,9 +65,9 @@ class Notepad():
     def word_count(self):
         ''' Displays word count '''
         words = [word for word in values['_body_'].split(' ') 
-                 if word !='\n']
+                 if word !='']
         word_count = len(words)
-        sg.popup('Word Count: {:,d}'.format(word_count))
+        sg.popup(f'Word Count: {word_count:,d}')
 
     def about(self):
         sg.popup('''
