@@ -10,7 +10,7 @@
 - Fully-functioning GUI
 
 ## Screenshots
-> Here's a preview image of the program:
+Here's a preview image of the program.
 
 ![preview](https://github.com/29yabuki/PySimpleGui-Notepad/blob/main/images/sample_image.png)
 
